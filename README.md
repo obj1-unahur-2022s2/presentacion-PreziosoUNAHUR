@@ -1,7 +1,9 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Logo UNAHUR](./assets/Screenshot.png)
 
 Bienvenidos a
 # Programación con objetos I
+
+## Yo soy **Franco Prezioso**, estudiante de la carrera Licenciatura en informatica
 
 En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
 Para ello usaremos como herramienta el lenguaje Wollok.
